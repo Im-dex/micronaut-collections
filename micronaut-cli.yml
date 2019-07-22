@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: collections
+---
+testFramework: junit
+sourceLanguage: java
